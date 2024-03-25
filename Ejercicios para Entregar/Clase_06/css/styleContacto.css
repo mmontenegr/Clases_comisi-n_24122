@@ -1,0 +1,50 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color:indigo;
+    font-weight: normal;
+}
+
+form { background-color: rgb(241, 233, 243); 
+       padding-top: 10px;
+       padding-left: 10px;
+       padding-right: 10px;
+       margin: 5px;
+    }
+
+fieldset{
+    padding: 20px;
+}
+
+label{
+    font-weight: ligh;
+    text-decoration: underline;
+}
+
+legend{
+    font-weight:lighter;
+}
+
+.boton_primario {
+    background-color:darkorchid;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+input {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.boton_secundario {
+    background-color:lightslategray;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.otros_label {
+    text-decoration: underline;
+}
